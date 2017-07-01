@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RockPaperScissor.data.unityweb",
+"asmCodeUrl": "RockPaperScissor.asm.code.unityweb",
+"asmMemoryUrl": "RockPaperScissor.asm.memory.unityweb",
+"asmFrameworkUrl": "RockPaperScissor.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
